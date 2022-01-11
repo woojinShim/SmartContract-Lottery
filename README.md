@@ -6,3 +6,9 @@
 
 3. The lottery will select a random winner
 추첨은 무작위 당첨자를 선택합니다
+
+How do we want to test this?
+
+1. `mainnet-fork`
+2. `development` with mocks
+3. `testnet`
